@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+uploads/
+student-data/
+papers/
+curriculum.json
+*.pdf
+*.zip
+*.sqlite*
+.DS_Store
